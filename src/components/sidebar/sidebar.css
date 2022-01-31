@@ -16,7 +16,8 @@
 }
 
 .sidebar__logo > img {
-    height: 45px;
+    height:60%;
+    width: 30%;
 }
 
 .sidebar__item {

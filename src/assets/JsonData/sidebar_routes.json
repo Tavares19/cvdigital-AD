@@ -5,43 +5,38 @@
         "icon": "bx bx-category-alt"
     },
     {
-        "display_name": "Customers",
+        "display_name": "Socios",
         "route": "/customers",
         "icon": "bx bx-user-pin"
     },
     {
-        "display_name": "Products",
+        "display_name": "Apresentar Projectos",
         "route": "/products",
         "icon": "bx bx-package"
     },
     {
-        "display_name": "Orders",
-        "route": "/orders",
+        "display_name": "Fazer Queixas",
+        "route": "/queixas",
         "icon": "bx bx-cart"
     },
     {
-        "display_name": "Analytics",
-        "route": "/analytics",
+        "display_name": "Pagar Quotas",
+        "route": "/quotas",
         "icon": "bx bx-bar-chart-alt"
     },
     {
-        "display_name": "categories",
-        "route": "/categories",
+        "display_name": "Consultar Eventos",
+        "route": "/eventos",
         "icon": "bx bx-list-ol"
     },
     {
-        "display_name": "discount",
+        "display_name": "Apresentar Candidatu.",
+        "route": "/candidatura",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "Bonus",
         "route": "/discount",
         "icon": "bx bx-gift"
-    },
-    {
-        "display_name": "inventory",
-        "route": "/inventory",
-        "icon": "bx bx-store-alt"
-    },
-    {
-        "display_name": "settings",
-        "route": "/settings",
-        "icon": "bx bx-cog"
     }
 ]

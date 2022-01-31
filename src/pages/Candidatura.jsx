@@ -1,13 +1,13 @@
 import React from 'react';
-import "./products.css";
+import "./candidatura.css";
 
-const Products = () => {
+const Candidatura = () => {
     return (
         <div>
-        
+            
         <div>
-
-        <h1> Proposta de Projecto</h1>
+        Apresentar Projectos CVDigital
+        <h1> Formulario de candidatura</h1>
         <fieldset class="grupo">
                       <div class="campo">
                           <label for="nome">Nome</label>
@@ -55,7 +55,7 @@ const Products = () => {
                   </fieldset>
             
                   <div class="campo resumo">
-                      <label for="mensagem">Resumo do Projecto</label>
+                      <label for="mensagem">Resumo da candidatura</label>
                       <textarea rows="6" id="mensagem" name="mensagem"></textarea>
                   </div>
             
@@ -79,4 +79,4 @@ const Products = () => {
     )
 }
 
-export default Products
+export default Candidatura

@@ -1,13 +1,13 @@
 import React from 'react';
-import "./products.css";
+import "./queixas.css";
 
-const Products = () => {
+const Queixas = () => {
     return (
         <div>
         
         <div>
 
-        <h1> Proposta de Projecto</h1>
+        <h1>Declarar uma Queixas</h1>
         <fieldset class="grupo">
                       <div class="campo">
                           <label for="nome">Nome</label>
@@ -55,12 +55,11 @@ const Products = () => {
                   </fieldset>
             
                   <div class="campo resumo">
-                      <label for="mensagem">Resumo do Projecto</label>
+                      <label for="mensagem">Motivos Da Queixa</label>
                       <textarea rows="6" id="mensagem" name="mensagem"></textarea>
                   </div>
             
                   <div class="campo">
-                      <label>Newsletter</label>
                       <label>
                           <input type="checkbox" name="newsletter" value="1"/> Gostaria de receber a Newsletter da empresa
                       </label>
@@ -79,4 +78,4 @@ const Products = () => {
     )
 }
 
-export default Products
+export default Queixas

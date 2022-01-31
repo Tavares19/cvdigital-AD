@@ -1,22 +1,18 @@
 [
     {
         "icon": "bx bx-shopping-bag",
-        "count": "1,995",
-        "title": "Total sales"
+        "count": "15",
+        "title": "Projectos"
     },
-    {
-        "icon": "bx bx-cart",
-        "count": "2,001",
-        "title": "Daily visits"
-    },
+
     {
         "icon": "bx bx-dollar-circle",
         "count": "$2,632",
-        "title": "Total income"
+        "title": "Quotas Pagas"
     },
     {
         "icon": "bx bx-receipt",
-        "count": "1,711",
+        "count": "27",
         "title": "Total orders"
     }
 ]

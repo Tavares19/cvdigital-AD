@@ -48,8 +48,8 @@ const chartOptions = {
 const topCustomers = {
     head: [
         'user',
-        'total orders',
-        'total spending'
+        'total de Projects',
+        'total '
     ],
     body: [
         {
@@ -106,7 +106,7 @@ const latestOrders = {
             user: "john doe",
             date: "17 Jun 2021",
             price: "$900",
-            status: "shipping"
+            status: "pending"
         },
         {
             id: "#OD1712",
